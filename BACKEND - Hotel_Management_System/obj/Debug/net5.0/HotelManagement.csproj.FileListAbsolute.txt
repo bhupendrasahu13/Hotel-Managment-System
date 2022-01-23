@@ -1,0 +1,600 @@
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\appsettings.json
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.exe
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.deps.json
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.json
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.dev.json
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\ref\HotelManagement.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\HotelManagement.pdb
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NETMVC CORE\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CoreCompileInputs.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.Manifest.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.xml
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\scopedcss\bundle\HotelManagement.styles.css
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.RazorTargetAssemblyInfo.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CopyComplete
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.dll
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\ref\HotelManagement.dll
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.pdb
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.genruntimeconfig.cache
+D:\ASP.NETMVC CORE\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.StaticWebAssets.xml
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.exe
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.deps.json
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.json
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.dev.json
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ref\HotelManagement.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\HotelManagement.pdb
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\scopedcss\bundle\HotelManagement.styles.css
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.Manifest.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.RazorTargetAssemblyInfo.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CopyComplete
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.dll
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\ref\HotelManagement.dll
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.pdb
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.genruntimeconfig.cache
+C:\Users\kush\Desktop\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kush\Desktop\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\appsettings.json
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.exe
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.deps.json
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.json
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.dev.json
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ref\HotelManagement.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\HotelManagement.pdb
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Humanizer.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\aaaaa\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CoreCompileInputs.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.Manifest.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.xml
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\scopedcss\bundle\HotelManagement.styles.css
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.RazorTargetAssemblyInfo.cache
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CopyComplete
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.dll
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\ref\HotelManagement.dll
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.pdb
+D:\aaaaa\HotelManagement\obj\Debug\net5.0\HotelManagement.genruntimeconfig.cache
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\appsettings.Development.json
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\appsettings.json
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.exe
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.deps.json
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.json
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.runtimeconfig.dev.json
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ref\HotelManagement.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\HotelManagement.pdb
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Humanizer.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mainproj\HotelManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CoreCompileInputs.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.Manifest.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.xml
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\scopedcss\bundle\HotelManagement.styles.css
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.RazorTargetAssemblyInfo.cache
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.CopyComplete
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.dll
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\ref\HotelManagement.dll
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.pdb
+D:\Mainproj\HotelManagement\obj\Debug\net5.0\HotelManagement.genruntimeconfig.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\appsettings.json
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.exe
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.deps.json
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.runtimeconfig.json
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.runtimeconfig.dev.json
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ref\HotelManagement.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\HotelManagement.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Humanizer.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.Manifest.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\staticwebassets\HotelManagement.StaticWebAssets.xml
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\scopedcss\bundle\HotelManagement.styles.css
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.RazorTargetAssemblyInfo.cache
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\ref\HotelManagement.dll
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.pdb
+C:\Users\91895\Desktop\New folder\HMS PROJECT\BACKEND - Hotel_Management_System\obj\Debug\net5.0\HotelManagement.genruntimeconfig.cache
